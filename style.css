@@ -1,0 +1,19 @@
+.box1 {
+    background-color:cyan;
+    /* margin: 20px 20px 100px auto;
+    padding: 20px;
+    */
+}
+.box2 {
+    background-color:blue;
+    /* margin: 20px;
+    padding: 40px; */
+}
+.box3 {
+    background-color:wheat;
+    /* margin: 20px;
+    padding: 60px; */
+}
+.wrapper{
+    /* margin:20px; */
+}
